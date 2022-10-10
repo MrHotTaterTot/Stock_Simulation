@@ -1,0 +1,6 @@
+180.75, Apple Inc, AAPL, 0
+3047.56, Alphabet Inc, GOOG, 0
+334.29, Microsoft Corporation, MSFT, 1
+283.86, NVIDIA Corporation, NVDA, 0
+238.06, Meta Platforms Inc, FB, 0
+75367.27, Samsung Electronics Co.Ltd, 005930.KS, 0
